@@ -2,6 +2,8 @@
 My First Repository on hello world
 
 
-Hi Humans
+Hi Visitors
 
-I love coding ... Ilove lo learn as much as about coding
+Welcome to my project !
+
+I love coding ... Ilove lo learn as much as about coding and developing
